@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Mostafa Zaman</h1>
-<h3 align="center">UX Researcher | Consumer Insights & Market Research | Mixed-Methods Research | SPSS, R, Python, Tableau | Usability Testing & Data Storytelling</h3>
+<h3 align="center">UX Researcher | Consumer Insights & Market Research | Data Analyst | Mixed-Methods Research | SPSS, R, Python, Tableau | Usability Testing & Data Storytelling</h3>
 
 - 📫 How to reach me **mzaman8419@gmail.com**
 
