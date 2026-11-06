@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Md Mostafa Zaman</h1>
-<h3 align="center">AI-Driven Data Analyst | Consumer Insights & Market Research Analyst | UX Researcher | Mixed-Methods Research | Python, R, SQL, Power BI/Tableau</h3>
+<h1 align="center">Hi 👋, This is Mostafa</h1>
+<h3 align="center">Applied AI/ML Engineer | Ph.D. | LLM Classification, RAG & Agents | Python • SQL • AWS (Bedrock, SageMaker) | Pittsburgh · Open to relocation</h3>
 
 - 📫 How to reach me **mzaman8419@gmail.com**
 
@@ -8,7 +8,4 @@
 <a href="https://www.linkedin.com/in/md-mostafa-zaman-ph-d-84b076239/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-mostafa-zaman-ph-d-84b076239/" height="30" width="40" /></a>
 </p>
 
-### 📊 Data & Analysis
-- Python, R, SQL, Power BI, Tableau. AI-Tools/AI Automation
-### 📚 Methodologies
-- Data Analyst | Consumer Insights & Market Research Analyst | UX Researcher | Mixed-Methods Research
+✅ Core skills: Python, SQL, Machine Learning, LLMs, Prompt Engineering, Amazon SageMaker, Amazon Bedrock, AWS Glue, Hugging Face, OpenAI API, LangChain, Pinecone
