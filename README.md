@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, This is Mostafa</h1>
+<h1 align="center">Hi 👋, it's Mostafa</h1>
 <h3 align="center">Applied AI/ML Engineer | Ph.D. | LLM Classification, RAG & Agents | Python • SQL • AWS (Bedrock, SageMaker) | Pittsburgh · Open to relocation</h3>
 
 - 📫 How to reach me **mzaman8419@gmail.com**
